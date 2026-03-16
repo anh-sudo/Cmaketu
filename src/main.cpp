@@ -5,7 +5,7 @@ int main(int argc, const char **argv) {
   const int screenHeight = 720;
   const char *windowTitle = "Hello Cmake";
   const char *message = "It's great to be here";
-  const int fontSize = 20;
+  const int fontSize = 60;
   const float msgSpacing = 1.0f;
 
   InitWindow(screenWidth, screenHeight, windowTitle);
